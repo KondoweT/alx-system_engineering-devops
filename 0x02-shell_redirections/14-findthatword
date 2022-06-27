@@ -1,2 +1,2 @@
 #!/bin/bash
-grepi -i "root" /etc/passwd
+grepi "root" /etc/passwd
